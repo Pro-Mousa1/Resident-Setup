@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.residenthomes.app-mergeDebugResources-28:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.residenthomes.app-mergeDebugResources-31:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/emobilis/.gradle/caches/transforms-3/164540ee728200c433fd519012ef58e7/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/home/emobilis/.gradle/caches/transforms-3/66780b6d0ab0ea838791606c6a5077a2/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

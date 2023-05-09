@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="carolyne">#03E0F4</color>
     <color name="splash">#FD0AA6F4</color>
+    <color name="topBar">#FD0AA6F4</color>
 </resources>

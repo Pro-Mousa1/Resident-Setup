@@ -27,6 +27,22 @@ class DashBActivity : AppCompatActivity() {
             val intent = Intent(this, AdminActivity::class.java)
             startActivity(intent)
         }
+        hostel.setOnClickListener {
+            val intent = Intent()
+            startActivity(intent)
+        }
+        room.setOnClickListener {
+            val intent = Intent()
+            startActivity(intent)
+        }
+        location.setOnClickListener {
+            val intent = Intent()
+            startActivity(intent)
+        }
+        amenities.setOnClickListener {
+            val intent = Intent()
+            startActivity(intent)
+        }
         logout.setOnClickListener {
             val intent = Intent(this, LoginActivity::class.java)
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK)

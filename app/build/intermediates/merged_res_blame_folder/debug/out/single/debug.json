@@ -1,646 +1,650 @@
 [
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_logout_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_logout_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_house_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_resident_logo_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/resident_logo_background.xml"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable_admin.jpeg.flat",
-        "source": "com.example.residenthomes.app-main-32:/drawable/admin.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_email_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_my_location_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_house_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_dash_bactivity.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_dash_bactivity.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_admin_panel_settings_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_email_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_email_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_home.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxhdpi/resident_logo_foreground.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_location_on_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_location_on_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_location_on_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_location_on_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_email_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/layout_activity_admin.xml.flat",
-        "source": "com.example.residenthomes.app-main-32:/layout/activity_admin.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-mdpi_resident_logo_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-mdpi/resident_logo_foreground.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/xml/backup_rules.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_admin_panel_settings_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_admin_panel_settings_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_admin.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/admin.jpeg"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_carolyne.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/carolyne.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_house_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_add_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.residenthomes.app-merged_res-33:/layout_activity_view_hostel.xml.flat",
+        "source": "com.example.residenthomes.app-main-35:/layout/activity_view_hostel.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_my_location_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_dash.jpeg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/dash.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxhdpi_resident_logo_round.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxhdpi/resident_logo_round.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xhdpi_resident_logo.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xhdpi/resident_logo.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/ic_launcher_background.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_add_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_add_home_24.xml.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_add_home_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_login.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/login.jpeg"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxxhdpi_resident_logo_round.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxxhdpi/resident_logo_round.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_email_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_house_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_house_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_add_home_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-hdpi_resident_logo.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-hdpi/resident_logo.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_home_repair_service_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_home_repair_service_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxhdpi_resident_logo.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxhdpi/resident_logo.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_home_repair_service_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_home_repair_service_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_add_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_resident.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/resident.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_room_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_room_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_house_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-hdpi_resident_logo_round.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-hdpi/resident_logo_round.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxxhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxxhdpi/resident_logo_foreground.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-anydpi-v26_resident_logo.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-anydpi-v26/resident_logo.xml"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_register.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_admin_panel_settings_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_admin_panel_settings_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_admin_panel_settings_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-hdpi_resident_logo_foreground.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-hdpi/resident_logo_foreground.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_add_hostel.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_add_hostel.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_add_home_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xhdpi_resident_logo_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xhdpi/resident_logo_foreground.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_logout_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_logout_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_view_cozy_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_view_cozy_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxhdpi_resident_logo_foreground.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxhdpi/resident_logo_foreground.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_email_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_add_home_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_house_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_location_on_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_location_on_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-anydpi-v26_resident_logo.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-anydpi-v26/resident_logo.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xhdpi_resident_logo.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xhdpi/resident_logo.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/xml/data_extraction_rules.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-hdpi_resident_logo_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-hdpi/resident_logo_round.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_login.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_login.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_add_location.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_add_location.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_security_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_security_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxhdpi_resident_logo.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxhdpi/resident_logo.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_add_home_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_login.jpeg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/login.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxxhdpi_resident_logo_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxxhdpi/resident_logo_round.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/xml_backup_rules.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/xml/backup_rules.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_account_circle_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_account_circle_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-mdpi_resident_logo.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-mdpi/resident_logo.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_add_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_add_photo_alternate_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_add_photo_alternate_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_display.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/display.jpeg"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_admin_panel_settings_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_add_circle_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_add_circle_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_my_location_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_restaurant_menu_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_restaurant_menu_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_splash.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_splash.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_dash_bactivity.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_dash_bactivity.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_email_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_my_location_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_dash.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/dash.jpeg"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_add_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_my_location_24.png"
+        "merged": "com.example.residenthomes.app-merged_res-33:/layout_view_hostel.xml.flat",
+        "source": "com.example.residenthomes.app-main-35:/layout/view_hostel.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-mdpi_resident_logo_foreground.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-mdpi/resident_logo_foreground.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxxhdpi_resident_logo_foreground.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxxhdpi/resident_logo_foreground.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_admin_panel_settings_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_add_home_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_bedroom_child_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_bedroom_child_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_display.jpeg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/display.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_add_home_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_add_home_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_home_display.jpg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/home_display.jpg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-hdpi_resident_logo.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-hdpi/resident_logo.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-mdpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-mdpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_home.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_home.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_resident.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/resident.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_bedroom_child_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_bedroom_child_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xhdpi_resident_logo_round.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xhdpi/resident_logo_round.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_security_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_security_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_my_location_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_my_location_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_add_photo_alternate_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_add_photo_alternate_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-anydpi-v26_resident_logo_round.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-anydpi-v26/resident_logo_round.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-mdpi_resident_logo.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-mdpi/resident_logo.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_login.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_admin.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_admin.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_home_repair_service_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_home_repair_service_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-mdpi_resident_logo_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-mdpi/resident_logo_round.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_resident_logo_background.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/resident_logo_background.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_add_home_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_add_home_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_admin_panel_settings_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_admin_panel_settings_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_splash.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_splash.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_account_circle_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_account_circle_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_house_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_house_24.png"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_add_home_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_add_home_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_my_location_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_my_location_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_security_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_security_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_carolyne.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/carolyne.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xhdpi_resident_logo_foreground.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xhdpi/resident_logo_foreground.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_add_location_alt_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_add_location_alt_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-xxxhdpi_resident_logo.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-xxxhdpi/resident_logo.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_register.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_register.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_email_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_email_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_home.jpeg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/home.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xhdpi_resident_logo_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xhdpi/resident_logo_round.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_location_on_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_location_on_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_register_bg.jpeg.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/register_bg.jpeg"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_email_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_email_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-hdpi_resident_logo_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-hdpi/resident_logo_foreground.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable_register_bg.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/drawable/register_bg.jpeg"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_view_cozy_24.png.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_view_cozy_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_add_location_alt_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_add_location_alt_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-anydpi-v26_resident_logo_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-anydpi-v26/resident_logo_round.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-hdpi_baseline_room_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-hdpi/baseline_room_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_bedroom_child_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_bedroom_child_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-mdpi_resident_logo_round.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-mdpi/resident_logo_round.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_email_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_email_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_home_repair_service_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_home_repair_service_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxhdpi_resident_logo_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxhdpi/resident_logo_round.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_baseline_logout_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/baseline_logout_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_account_circle_24.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_account_circle_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/layout_activity_location.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/layout/activity_location.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xhdpi_baseline_house_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xhdpi/baseline_house_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-hdpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-hdpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_resident_logo_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/resident_logo_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-anydpi-v21_baseline_house_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-anydpi-v21/baseline_house_24.xml"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-ldpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-ldpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-xxxhdpi_resident_logo.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-xxxhdpi/resident_logo.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_bedroom_child_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_bedroom_child_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/ic_launcher_background.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xhdpi/baseline_admin_panel_settings_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxxhdpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxxhdpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_resident_logo_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/resident_logo_background.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-xxhdpi_baseline_logout_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-xxhdpi/baseline_logout_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.residenthomes.app-merged_res-30:/drawable-anydpi-v21_baseline_view_cozy_24.xml.flat",
-        "source": "com.example.residenthomes.app-pngs-26:/drawable-anydpi-v21/baseline_view_cozy_24.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_view_cozy_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_view_cozy_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/layout_activity_admin.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/layout/activity_admin.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_account_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_account_circle_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable_santanna.xml.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-main-32:/drawable/santanna.xml"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-ldpi_baseline_security_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-ldpi/baseline_security_24.png"
     },
     {
-        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-30:/drawable-mdpi_baseline_restaurant_menu_24.png.flat",
-        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-26:/drawable-mdpi/baseline_restaurant_menu_24.png"
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxxhdpi_baseline_admin_panel_settings_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxxhdpi/baseline_admin_panel_settings_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-merged_res-33:/drawable-xxhdpi_baseline_add_circle_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.residenthomes.app-pngs-29:/drawable-xxhdpi/baseline_add_circle_24.png"
     }
 ]

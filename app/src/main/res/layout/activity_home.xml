@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/splash"
+    android:background="@drawable/display_home"
     tools:context=".HomeActivity">
 
     <TextView
@@ -14,6 +14,7 @@
         android:layout_marginTop="456dp"
         android:text="Welcome to Resident"
         android:textSize="24sp"
+        android:textColor="@color/black"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.06"

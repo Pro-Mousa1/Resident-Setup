@@ -306,7 +306,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/add_circle/baseline_add_circle_24.xml" />
+                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/add_photo_alternate/baseline_add_photo_alternate_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -316,8 +316,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="0a79f8" />
-                            <entry key="outputName" value="baseline_add_circle_24" />
+                            <entry key="color" value="0a55f8" />
+                            <entry key="outputName" value="baseline_add_photo_alternate_24" />
                           </map>
                         </option>
                       </PersistentState>
